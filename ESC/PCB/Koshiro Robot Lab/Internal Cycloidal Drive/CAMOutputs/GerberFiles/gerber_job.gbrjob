@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-04-08T07:58:15Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.5988,
+        "LayerNumber": 6,
+        "Name": {
+            "ProjectId": "ESC v311"
+        },
+        "Owner": "Taisei Koshiro <koshirorobotlab@gmail.com>",
+        "Size": {
+            "X": 67.429659,
+            "Y": 55.991528
+        }
+    }
+}
